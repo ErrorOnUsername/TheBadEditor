@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/bad.dir/src/main.cc.o -o bad 

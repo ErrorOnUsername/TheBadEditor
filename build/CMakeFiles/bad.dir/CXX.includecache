@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/unknown/dev/bad/src/main.cc
+ctype.h
+-
+errno.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+sys/ioctl.h
+-
+termios.h
+-
+unistd.h
+-
+
